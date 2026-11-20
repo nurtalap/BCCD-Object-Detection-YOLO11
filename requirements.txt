@@ -1,1 +1,9 @@
-
+Python: 3.13.16 (main, Oct  1 2026, 15:40:24) [GCC 13.3.0]
+PyTorch: 2.14.1+cu130
+Torchvision: 0.29.1+cu130
+Ultralytics: 8.4.216
+NumPy: 2.4.6
+Pandas: 2.2.3
+Matplotlib: 3.10.0
+CUDA available: True
+GPU: Tesla T4

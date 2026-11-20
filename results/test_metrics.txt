@@ -1,0 +1,12 @@
+Final Model: YOLO11n
+Image Size: 640x640
+Confidence Threshold: 0.001
+IoU Threshold: 0.7
+
+Test Precision: 0.8415
+Test Recall: 0.9092
+Test mAP50: 0.9334
+Test mAP50-95: 0.6499
+
+Baseline Training Time: 4.95 minutes
+Experiment Training Time: 3.53 minutes

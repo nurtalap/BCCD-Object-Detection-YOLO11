@@ -33,6 +33,27 @@ The dataset was split using random seed 42. The test set was kept separate from 
 
 *Note: Add the exact number of annotated objects per split and per class after checking your converted labels.*
 
+TRAIN
+Images with label files: 254
+RBC: 2903
+WBC: 263
+Platelets: 252
+Total objects: 3418
+
+VAL
+Images with label files: 73
+RBC: 826
+WBC: 72
+Platelets: 74
+Total objects: 972
+
+TEST
+Images with label files: 37
+RBC: 426
+WBC: 37
+Platelets: 35
+Total objects: 498
+
 ## 3. Data Preparation
 
 The original Pascal VOC XML annotations were converted into YOLO bounding-box format.
